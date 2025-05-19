@@ -1,6 +1,6 @@
 ## Leonard Honeymone
 ### 23
-Full-stack web-developer. 
+Full-stack web-developer (Mostly Frontend). 
 ---
 
 Hard skills:
