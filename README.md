@@ -1,5 +1,5 @@
 ## Leonard Honeymone
-### 23
+23
 Full-stack web-developer (Mostly Frontend). 
 ---
 
@@ -12,3 +12,10 @@ Hard skills:
 Hard skills to learn:
 - React, React Native ❌
 - Python (Flask, FastAPI) ❌
+
+---
+
+Soft skills:
+- Silly
+- Chill
+- Funy
