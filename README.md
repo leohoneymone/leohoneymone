@@ -1,6 +1,5 @@
-## Leonard Honeymone
+# Leonard Honeymone
 24
----
 
 Full-stack web-developer (Mostly Frontend). 
 
