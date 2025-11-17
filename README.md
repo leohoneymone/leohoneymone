@@ -8,12 +8,19 @@ Full-stack web-developer (Mostly Frontend).
 Hard skills:
 - HTML5, CSS3 ✔️
 - JavaScript, JQuery, AJAX ✔️
-- PHP, PDO ✔️
+- React ✔️
 - SQL (SQLite, MySQL, PostgreSQL) ✔️
+- PHP, PDO ✔️
+
+Mediocre hard skills:
+- TypeScript ⚠️
+- Java 21 OpenJDK ⚠️
+- Python (Flask) ⚠️
 
 Hard skills to learn:
-- React, React Native ❌
-- Python (Flask, FastAPI) ❌
+- Vue ❌
+- React Native ❌
+- Python (FastAPI) ❌
 
 ---
 
