@@ -25,6 +25,6 @@ Hard skills to learn:
 ---
 
 Soft skills:
-- Silly
-- Chill
+- Sili
+- Chile
 - Funy
