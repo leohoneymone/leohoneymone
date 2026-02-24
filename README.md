@@ -11,9 +11,13 @@ Hard skills:
 - React ✔️
 - SQL (SQLite, MySQL, PostgreSQL) ✔️
 - PHP, PDO ✔️
+- TypeScript ✔️
+- SASS / SCSS ✔️
 
 Mediocre hard skills:
-- TypeScript ⚠️
+
+- Zustand ⚠️
+- TanStack Query ⚠️
 - Java 21 OpenJDK ⚠️
 - Python (Flask) ⚠️
 
