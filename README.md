@@ -1,34 +1,34 @@
 # Leonard Honeymone
-24
+25
 
-Full-stack web-developer (Mostly Frontend). 
+Senior Full-stack web-developer (Mostly Frontend). 
 
 ---
 
-Hard skills:
-- HTML5, CSS3 ✔️
-- JavaScript, JQuery, AJAX ✔️
-- React ✔️
-- SQL (SQLite, MySQL, PostgreSQL) ✔️
-- PHP, PDO ✔️
-- TypeScript ✔️
-- SASS / SCSS ✔️
+⚠️ This github account is primarily used for my pet projects, academical / educational repositories and other stuff. Does not contain any real system 
 
-Mediocre hard skills:
+---
 
-- Zustand ⚠️
-- TanStack Query ⚠️
-- Java 21 OpenJDK ⚠️
-- Python (Flask) ⚠️
+✅ Main stack:
 
-Hard skills to learn:
-- Vue ❌
-- React Native ❌
-- Python (FastAPI) ❌
+- TypeScript
+- React
+- SCSS / **SCSS Modules** / Material UI
+- Zustand
+- TanStack Query
+- React Router
+- **Vite** / Webpack
+- Vitest + RTL + MSW + coverage V8 (Unit + Integration)
+
+💻 Other hard skills:
+
+- Java 21
+- Python (Flask, aiogram)
+- C# (Unity)
 
 ---
 
 Soft skills:
-- Sili
-- Chile
-- Funy
+- Sili 😜
+- Chile 😏
+- Funy 😁
