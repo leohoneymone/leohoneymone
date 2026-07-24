@@ -5,7 +5,7 @@ Senior Full-stack web-developer (Mostly Frontend).
 
 ---
 
-⚠️ This github account is primarily used for my pet projects, academical / educational repositories and other stuff. Does not contain any real system 
+⚠️ This github account is primarily used for my pet projects, academical / educational repositories and other stuff. Does not contain any real systems 
 
 ---
 
